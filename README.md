@@ -37,10 +37,6 @@ REST APIs · JWT · OpenAPI / Swagger · Automated Testing · Git · GitHub Acti
 - API documentation
 - CI/CD automation
 
-## 📌 Currently
-
-Continuously improving my backend engineering skills with a focus on software architecture, scalable systems, security, testing, and production-ready Django applications.
-
 ---
 
-📫 **GitHub:** [@pedimmdi](https://github.com/pedimmdi)
+📫 **Reach me at:** [pedimmdi@gmail.com](mailto:pedimmdi@gmail.com)
