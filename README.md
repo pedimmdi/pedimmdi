@@ -24,20 +24,6 @@ PostgreSQL · Redis · Docker · Docker Compose
 
 REST APIs · JWT · OpenAPI / Swagger · Automated Testing · Git · GitHub Actions · CI/CD · Linux
 
-## 🚀 Featured Projects
-
-### [Rayger](https://github.com/pedimmdi/rayger)
-Real-time polling platform built around Django REST Framework and WebSockets, with Redis, PostgreSQL, Docker, authentication, real-time voting, and CI.
-
-### [CafeCore](https://github.com/pedimmdi/cafecore)
-Cafe and restaurant management system covering orders, reservations, coupons, reviews, dashboard workflows, PostgreSQL, Docker, and CI/CD.
-
-### [Txtr](https://github.com/pedimmdi/txtr)
-Text-based social networking backend featuring JWT authentication, following, feeds, notifications, direct messaging, search, pagination, and throttling.
-
-### [Django Todo](https://github.com/pedimmdi/django-todo)
-Task management REST API with authentication, authorization, PostgreSQL, Docker, OpenAPI documentation, and automated testing with a focus on secure access control.
-
 ## 🎯 Engineering Focus
 
 - RESTful API design
